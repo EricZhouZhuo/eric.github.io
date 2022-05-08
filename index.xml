@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhuo Zhou</title>
-    <link>https://eric.github.io/</link>
+    <link>https://EricZhouZhuo.github.io/eric/</link>
     <description>Recent content on Zhuo Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Zhuo Zhou</copyright>
-    <lastBuildDate>Fri, 06 May 2022 14:30:21 -0400</lastBuildDate><atom:link href="https://eric.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 May 2022 14:30:21 -0400</lastBuildDate><atom:link href="https://EricZhouZhuo.github.io/eric/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skills &amp; Academic Interest</title>
-      <link>https://eric.github.io/academic-interest/</link>
+      <link>https://EricZhouZhuo.github.io/eric/academic-interest/</link>
       <pubDate>Fri, 06 May 2022 14:30:21 -0400</pubDate>
       
-      <guid>https://eric.github.io/academic-interest/</guid>
+      <guid>https://EricZhouZhuo.github.io/eric/academic-interest/</guid>
       <description>Python
 R
 SQL(Mysql, SQL Server)
@@ -25,19 +25,19 @@ Statistical and Machine Learning</description>
     
     <item>
       <title>About Me</title>
-      <link>https://eric.github.io/about-me/</link>
+      <link>https://EricZhouZhuo.github.io/eric/about-me/</link>
       <pubDate>Thu, 05 May 2022 14:30:21 -0400</pubDate>
       
-      <guid>https://eric.github.io/about-me/</guid>
+      <guid>https://EricZhouZhuo.github.io/eric/about-me/</guid>
       <description>Zhuo Zhou is currently a graduate student at Cornell University major in Operation Research &amp;amp; Information Engineering. Before joining Cornell, he was a student major in industrial engineering in University of Illinois at Urbana-Champaign. He will join o9 Solutions post-graduation, a premier AI-driven integrated planning and operations solution provider.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://eric.github.io/projects/</link>
+      <link>https://EricZhouZhuo.github.io/eric/projects/</link>
       <pubDate>Thu, 05 May 2022 14:30:21 -0400</pubDate>
       
-      <guid>https://eric.github.io/projects/</guid>
+      <guid>https://EricZhouZhuo.github.io/eric/projects/</guid>
       <description>o9 Solutions, Shanghai, China 08/2020-07/2021, Functional Consultant:  Configured the o9 platform based on the blueprint laid out during design to solve deep operations/supply chain problems for a global beverage company. Implemented a Supply Chain End-to-End Demand Planning Process. Implemented demand forecasting using machine learning models (Random Forest) in python, including Data Input &amp;amp; Pre-processing, SKU Segmentation, Feature Engineering, Training, Tuning, and Validation to increase the accuracy of the demand prediction by 10% for different data hierarchies.</description>
     </item>
     
