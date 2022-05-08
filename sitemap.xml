@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2022-05-06T14:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/academic-interest/</loc>
+    <loc>/academic-interest/</loc>
     <lastmod>2022-05-06T14:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2022-05-06T14:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/about-me/</loc>
+    <loc>/about-me/</loc>
     <lastmod>2022-05-05T14:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2022-05-05T14:30:21-04:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/page/about/</loc>
+    <loc>/page/about/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/page/contact/</loc>
+    <loc>/page/contact/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/page/</loc>
+    <loc>/page/</loc>
     <lastmod>2015-04-03T02:13:50+00:00</lastmod>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://EricZhouZhuo.github.io/eric.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
